@@ -1,0 +1,109 @@
+{
+  "note": "APK-bundled candidates (not in manifest.json). Copy into assets when ready.",
+  "sounds": [
+    {
+      "id": "crickets",
+      "cat": "nature",
+      "file": "bundled/crickets.m4a",
+      "bytes": 754071,
+      "sha256": "adf061bcfadab1b10acbef516656f7b41a5ace0208f3d71415d20b99badd6062",
+      "durationSec": 60,
+      "license": "AuraSleep original (owned)",
+      "title": {
+        "tr": "Gece cırcır böcekleri",
+        "en": "Night crickets"
+      }
+    },
+    {
+      "id": "rain_soft",
+      "cat": "rain",
+      "file": "bundled/rain_soft.m4a",
+      "bytes": 733314,
+      "sha256": "a44025de4ab340a1ce006c1e141a75ddda39aadcbb3c9bee3440737cb4713035",
+      "durationSec": 60,
+      "license": "AuraSleep original (owned)",
+      "title": {
+        "tr": "Yumuşak yağmur",
+        "en": "Soft rain"
+      }
+    },
+    {
+      "id": "fan",
+      "cat": "home",
+      "file": "bundled/fan.m4a",
+      "bytes": 732489,
+      "sha256": "d28e1bf5c2a9b45f774412d65f32564b9423821e5b8577437c1d769913a5a4a8",
+      "durationSec": 60,
+      "license": "AuraSleep original (owned)",
+      "title": {
+        "tr": "Vantilatör",
+        "en": "Fan"
+      }
+    },
+    {
+      "id": "ocean_waves",
+      "cat": "water",
+      "file": "bundled/ocean_waves.m4a",
+      "bytes": 733039,
+      "sha256": "d3eae3623dfb7907b6d4ed30b08fa4dd26fdb7a3f4d6257eeefe12a424c4b6a3",
+      "durationSec": 60,
+      "license": "AuraSleep original (owned)",
+      "title": {
+        "tr": "Dalgalar",
+        "en": "Ocean waves"
+      }
+    },
+    {
+      "id": "music_box",
+      "cat": "melodies",
+      "file": "bundled/music_box.m4a",
+      "bytes": 733678,
+      "sha256": "6ace1543cac7cbe0619ab1ca90f02f3e073fceefb74030dd730e864c4cabbae9",
+      "durationSec": 60,
+      "license": "AuraSleep original (owned)",
+      "title": {
+        "tr": "Müzik kutusu",
+        "en": "Music box"
+      }
+    },
+    {
+      "id": "pink",
+      "cat": "noises",
+      "file": "bundled/pink.m4a",
+      "bytes": 733019,
+      "sha256": "f2e4eb3eb90bd689de01145a09d8f87f87bcd666c9276d6fecfa6aa0077e5be2",
+      "durationSec": 60,
+      "license": "AuraSleep original (owned)",
+      "title": {
+        "tr": "Pembe gürültü",
+        "en": "Pink noise"
+      }
+    },
+    {
+      "id": "brown",
+      "cat": "noises",
+      "file": "bundled/brown.m4a",
+      "bytes": 732850,
+      "sha256": "a8bfc7ff916a71159816bcd7007da2a2ea52ce75094039b3584431c350052a8c",
+      "durationSec": 60,
+      "license": "AuraSleep original (owned)",
+      "title": {
+        "tr": "Kahverengi gürültü",
+        "en": "Brown noise"
+      }
+    },
+    {
+      "id": "wind_gentle",
+      "cat": "wind",
+      "file": "bundled/wind_gentle.m4a",
+      "bytes": 735587,
+      "sha256": "4c0da22dd32e9d1b12f38dbad96bee7b7a2d366b131a12616bbf409fb149e0cc",
+      "durationSec": 60,
+      "license": "AuraSleep original (owned)",
+      "title": {
+        "tr": "Hafif esinti",
+        "en": "Gentle breeze"
+      }
+    }
+  ]
+}

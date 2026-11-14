@@ -1,0 +1,694 @@
+{
+  "schema": 1,
+  "version": "2026.11.1",
+  "sounds": [
+    {
+      "id": "feat_rain_fire",
+      "cat": "featured",
+      "pro": false,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/feat_rain_fire.m4a",
+      "bytes": 1475443,
+      "sha256": "c7cea64126b70ed898c72297f075d76ecbb04d984438941f024322aaabebd988",
+      "durationSec": 120,
+      "loop": true,
+      "license": "CC0-1.0 + AuraSleep original",
+      "source": "https://commons.wikimedia.org/wiki/File:Tempete_Quebec_ville_12_Aug_2023.flac | https://github.com/serqanaktas-ctrl/aurasleep-sounds/blob/main/tools/gen.py",
+      "title": {
+        "tr": "Yağmur ve şömine",
+        "en": "Rain & fireplace"
+      }
+    },
+    {
+      "id": "feat_beach_night",
+      "cat": "featured",
+      "pro": false,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/feat_beach_night.m4a",
+      "bytes": 1467745,
+      "sha256": "901a417c0abd4b4cb7f51846341cda6fdd16ca907a8659f66d2e61398bbb78a7",
+      "durationSec": 120,
+      "loop": true,
+      "license": "AuraSleep original (owned)",
+      "source": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/blob/main/tools/gen.py",
+      "title": {
+        "tr": "Kumsalda gece",
+        "en": "Night on the beach"
+      }
+    },
+    {
+      "id": "feat_forest_morning",
+      "cat": "featured",
+      "pro": true,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/feat_forest_morning.m4a",
+      "bytes": 1472397,
+      "sha256": "a0d31bafdc728095ffe13215e04a5304e17e357deb711f506e997b7342047c3f",
+      "durationSec": 120,
+      "loop": true,
+      "license": "CC0-1.0 + AuraSleep original",
+      "source": "https://commons.wikimedia.org/wiki/File:Birds_on_Vieux_Limoilou,_Qu%C3%A9bec_ville.wav | https://commons.wikimedia.org/wiki/File:Snowmelt_flowing_into_lake_at_Okanagan_Mountain_Provincial_Park.flac | https://github.com/serqanaktas-ctrl/aurasleep-sounds/blob/main/tools/gen.py",
+      "title": {
+        "tr": "Orman sabahı",
+        "en": "Forest morning"
+      }
+    },
+    {
+      "id": "feat_dream_rain",
+      "cat": "featured",
+      "pro": true,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/feat_dream_rain.m4a",
+      "bytes": 1466478,
+      "sha256": "98fc1e1bba6eb32c80844637e8bad5a656eaed74aba9bf829be86000256f268c",
+      "durationSec": 120,
+      "loop": true,
+      "license": "AuraSleep original (owned)",
+      "source": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/blob/main/tools/gen.py",
+      "title": {
+        "tr": "Düşte yağmur",
+        "en": "Dreamy rain"
+      }
+    },
+    {
+      "id": "birds_quebec",
+      "cat": "nature",
+      "pro": false,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/birds_quebec.m4a",
+      "bytes": 1466400,
+      "sha256": "5ce983eb5560bc6df8232af9165a8883040768b0c5ad3578986f4e235e18b1c1",
+      "durationSec": 120,
+      "loop": true,
+      "license": "CC0-1.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Birds_on_Vieux_Limoilou,_Qu%C3%A9bec_ville.wav",
+      "title": {
+        "tr": "Kent bahçesinde kuşlar",
+        "en": "Garden birds"
+      }
+    },
+    {
+      "id": "cicada_india",
+      "cat": "nature",
+      "pro": false,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/cicada_india.m4a",
+      "bytes": 1363243,
+      "sha256": "8c6c79b109828c5d0b95c4327f694ab2aa18acafb5a46115e060122fc3570162",
+      "durationSec": 111,
+      "loop": true,
+      "license": "CC0-1.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Cicada_20200619.wav",
+      "title": {
+        "tr": "Ağustosböceği",
+        "en": "Cicada"
+      }
+    },
+    {
+      "id": "forest_leaves",
+      "cat": "nature",
+      "pro": false,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/forest_leaves.m4a",
+      "bytes": 1473938,
+      "sha256": "b9346be0f3496079d2b998b003457d9d34ce84a2291314b6da56eaf0933e10f9",
+      "durationSec": 120,
+      "loop": true,
+      "license": "CC0-1.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Leaves_falling_from_the_trees_during_autumn_in_the_forest.wav",
+      "title": {
+        "tr": "Sonbahar ormanı",
+        "en": "Autumn forest"
+      }
+    },
+    {
+      "id": "toucans",
+      "cat": "nature",
+      "pro": true,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/toucans.m4a",
+      "bytes": 1472540,
+      "sha256": "ebcb95bd2041ca980ffc9ae54134d78696ed9c49149ef3b90acf003481159c88",
+      "durationSec": 120,
+      "loop": true,
+      "license": "CC0-1.0",
+      "source": "https://commons.wikimedia.org/wiki/File:404114_felix-blume_toucans-singing-in-the-amazonian-rainforest-brazil.ogg",
+      "title": {
+        "tr": "Yağmur ormanı",
+        "en": "Rainforest"
+      }
+    },
+    {
+      "id": "cicada_korea",
+      "cat": "nature",
+      "pro": true,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/cicada_korea.m4a",
+      "bytes": 1465727,
+      "sha256": "d4fbe7695d25a7fcc2c06b2e8b07ec66cc382f872fae7d29beb8d6de46b76cbc",
+      "durationSec": 120,
+      "loop": true,
+      "license": "CC0-1.0",
+      "source": "https://commons.wikimedia.org/wiki/File:HyalessaFuscata_KR.flac",
+      "title": {
+        "tr": "Yaz öğleden sonrası",
+        "en": "Summer afternoon"
+      }
+    },
+    {
+      "id": "rain_light_thunder",
+      "cat": "rain",
+      "pro": false,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/rain_light_thunder.m4a",
+      "bytes": 1251092,
+      "sha256": "786b6dfee501275d3d1fae53dcc95bf7e94b2e93512a0940ddd96092ebd34544",
+      "durationSec": 102,
+      "loop": true,
+      "license": "CC0-1.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Light_Rain_Distant_Thunder_July_5th_2016.wav",
+      "title": {
+        "tr": "Hafif yağmur, uzak gök gürültüsü",
+        "en": "Light rain, distant thunder"
+      }
+    },
+    {
+      "id": "rain_roof",
+      "cat": "rain",
+      "pro": false,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/rain_roof.m4a",
+      "bytes": 1465704,
+      "sha256": "6389c86f8340d4e2e7a3992dc9bd7e37426eb10d371501097588a3a2f9939c4a",
+      "durationSec": 120,
+      "loop": true,
+      "license": "AuraSleep original (owned)",
+      "source": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/blob/main/tools/gen.py",
+      "title": {
+        "tr": "Çatıda yağmur",
+        "en": "Rain on the roof"
+      }
+    },
+    {
+      "id": "rain_city_afternoon",
+      "cat": "rain",
+      "pro": false,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/rain_city_afternoon.m4a",
+      "bytes": 1475811,
+      "sha256": "0854aebf35cd0eb1962eaa8d30c6a95652f7408d7ede7b437c9fb7b7537c1d5a",
+      "durationSec": 120,
+      "loop": true,
+      "license": "CC0-1.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Urban_Street_on_a_Rainy_Afternoon.flac",
+      "title": {
+        "tr": "Yağmurlu sokak",
+        "en": "Rainy street"
+      }
+    },
+    {
+      "id": "rain_heavy",
+      "cat": "rain",
+      "pro": true,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/rain_heavy.m4a",
+      "bytes": 1465757,
+      "sha256": "adb823016ca126057a6585108479538bb2bd314d4d04bef47442d6d97cf58ee6",
+      "durationSec": 120,
+      "loop": true,
+      "license": "AuraSleep original (owned)",
+      "source": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/blob/main/tools/gen.py",
+      "title": {
+        "tr": "Sağanak",
+        "en": "Downpour"
+      }
+    },
+    {
+      "id": "rain_storm_quebec",
+      "cat": "rain",
+      "pro": true,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/rain_storm_quebec.m4a",
+      "bytes": 1465956,
+      "sha256": "25af7ba6d30e7f0a78a8192ec98cd9584816f7ac9df6c611fa8ad4d6122cf633",
+      "durationSec": 120,
+      "loop": true,
+      "license": "CC0-1.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tempete_Quebec_ville_12_Aug_2023.flac",
+      "title": {
+        "tr": "Fırtına",
+        "en": "Thunderstorm"
+      }
+    },
+    {
+      "id": "shower",
+      "cat": "home",
+      "pro": false,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/shower.m4a",
+      "bytes": 1466573,
+      "sha256": "2ef35591ee2e1c7b3a71fa457bf1d29f5917084a90801790f33736e2eb347912",
+      "durationSec": 120,
+      "loop": true,
+      "license": "CC0-1.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Shower_Sound_Ambience.ogg",
+      "title": {
+        "tr": "Duş",
+        "en": "Shower"
+      }
+    },
+    {
+      "id": "clock",
+      "cat": "home",
+      "pro": false,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/clock.m4a",
+      "bytes": 1452914,
+      "sha256": "6581ebc6e2b089d0b723668c79fa8e9139612ddfedf66b1fb965d59da1f9ea88",
+      "durationSec": 120,
+      "loop": true,
+      "license": "AuraSleep original (owned)",
+      "source": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/blob/main/tools/gen.py",
+      "title": {
+        "tr": "Duvar saati",
+        "en": "Wall clock"
+      }
+    },
+    {
+      "id": "fireplace",
+      "cat": "home",
+      "pro": false,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/fireplace.m4a",
+      "bytes": 1483865,
+      "sha256": "d356ceabe34729f45d18f1cdbd910ca8e81c4393f83158a324682e8a5678869f",
+      "durationSec": 120,
+      "loop": true,
+      "license": "AuraSleep original (owned)",
+      "source": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/blob/main/tools/gen.py",
+      "title": {
+        "tr": "Şömine",
+        "en": "Fireplace"
+      }
+    },
+    {
+      "id": "aircon",
+      "cat": "home",
+      "pro": true,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/aircon.m4a",
+      "bytes": 1465658,
+      "sha256": "6e3cbb9c6b68df46888292a2e3de0d9371ef899a9650567c8c823fba7f28b46c",
+      "durationSec": 120,
+      "loop": true,
+      "license": "AuraSleep original (owned)",
+      "source": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/blob/main/tools/gen.py",
+      "title": {
+        "tr": "Klima",
+        "en": "Air conditioner"
+      }
+    },
+    {
+      "id": "cabin",
+      "cat": "home",
+      "pro": true,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/cabin.m4a",
+      "bytes": 1466101,
+      "sha256": "6f674e4f3e956f832513e6a97766142c38c23e4aeee6c7033be5ea93b77171a9",
+      "durationSec": 120,
+      "loop": true,
+      "license": "CC0-1.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sound_inside_the_Copa_Airlines_flight.flac",
+      "title": {
+        "tr": "Uçak kabini",
+        "en": "Airplane cabin"
+      }
+    },
+    {
+      "id": "heartbeat",
+      "cat": "home",
+      "pro": true,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/heartbeat.m4a",
+      "bytes": 797347,
+      "sha256": "d121bd91dfea4400159d9e92a076235983074fc7d71dcd91491deb3f65dc6dcd",
+      "durationSec": 65,
+      "loop": true,
+      "license": "CC0-1.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Human_heart_rate.flac",
+      "title": {
+        "tr": "Kalp atışı",
+        "en": "Heartbeat"
+      }
+    },
+    {
+      "id": "stream_close",
+      "cat": "water",
+      "pro": false,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/stream_close.m4a",
+      "bytes": 773305,
+      "sha256": "b190a219b6df874aad92f958db9b67278ecc130ce7444e1ee68d756039f5989b",
+      "durationSec": 62,
+      "loop": true,
+      "license": "CC0-1.0",
+      "source": "https://commons.wikimedia.org/wiki/File:433589_jackthemurray_stream-river-water-up-close.wav",
+      "title": {
+        "tr": "Dere",
+        "en": "Stream"
+      }
+    },
+    {
+      "id": "trickle",
+      "cat": "water",
+      "pro": false,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/trickle.m4a",
+      "bytes": 1024051,
+      "sha256": "366a1a47428f8a3f817bc11d2d8021ac7700da035c274de1df7d2359c4024078",
+      "durationSec": 82,
+      "loop": true,
+      "license": "CC0-1.0",
+      "source": "https://commons.wikimedia.org/wiki/File:363120_fractalstudios_water-trickle.wav",
+      "title": {
+        "tr": "Su şırıltısı",
+        "en": "Water trickle"
+      }
+    },
+    {
+      "id": "ocean_distant",
+      "cat": "water",
+      "pro": false,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/ocean_distant.m4a",
+      "bytes": 1465756,
+      "sha256": "6d76082cf953cc8988bdb4b768660b6e8f72fe2639286484302898663d88148a",
+      "durationSec": 120,
+      "loop": true,
+      "license": "AuraSleep original (owned)",
+      "source": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/blob/main/tools/gen.py",
+      "title": {
+        "tr": "Uzak deniz",
+        "en": "Distant sea"
+      }
+    },
+    {
+      "id": "snowmelt",
+      "cat": "water",
+      "pro": true,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/snowmelt.m4a",
+      "bytes": 1473468,
+      "sha256": "74e9f847e07e5208eda8e58a3a1dc36e899ad925b3fee7d0d79ab697a94d6a5d",
+      "durationSec": 120,
+      "loop": true,
+      "license": "CC0-1.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Snowmelt_flowing_into_lake_at_Okanagan_Mountain_Provincial_Park.flac",
+      "title": {
+        "tr": "Göle akan kar suyu",
+        "en": "Snowmelt into lake"
+      }
+    },
+    {
+      "id": "underwater",
+      "cat": "water",
+      "pro": true,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/underwater.m4a",
+      "bytes": 1474923,
+      "sha256": "2022758cebe1633a5a61a00cc8411060534b43a3cae07996e1cd703f83630a16",
+      "durationSec": 120,
+      "loop": true,
+      "license": "AuraSleep original (owned)",
+      "source": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/blob/main/tools/gen.py",
+      "title": {
+        "tr": "Su altı",
+        "en": "Underwater"
+      }
+    },
+    {
+      "id": "road_midnight",
+      "cat": "city",
+      "pro": false,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/road_midnight.m4a",
+      "bytes": 1470187,
+      "sha256": "b3595f03cba922950e77a7494953329cdc1b33ba215f30dc3e19e9cfd70983b4",
+      "durationSec": 120,
+      "loop": true,
+      "license": "CC0-1.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Two_Lane_Road_in_Kelowna_at_Midnight.flac",
+      "title": {
+        "tr": "Gece yarısı yol",
+        "en": "Midnight road"
+      }
+    },
+    {
+      "id": "cafe",
+      "cat": "city",
+      "pro": false,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/cafe.m4a",
+      "bytes": 1468407,
+      "sha256": "aef14a314b3ca23651e4d82d6634bc32a4eaa482326665b35eebe0322db9ac52",
+      "durationSec": 120,
+      "loop": true,
+      "license": "CC0-1.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Cafe_ambiance.ogg",
+      "title": {
+        "tr": "Kafe",
+        "en": "Café"
+      }
+    },
+    {
+      "id": "citystreet",
+      "cat": "city",
+      "pro": false,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/citystreet.m4a",
+      "bytes": 1466236,
+      "sha256": "6d1c9a938e95a4eb8c37771fc740b6b96e6bca789f3e8b620abd3fc072b71bb6",
+      "durationSec": 120,
+      "loop": true,
+      "license": "CC0-1.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sagetyrtle_-_citystreet3_(cc0)_(freesound).mp3",
+      "title": {
+        "tr": "Şehir sokağı",
+        "en": "City street"
+      }
+    },
+    {
+      "id": "airport",
+      "cat": "city",
+      "pro": false,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/airport.m4a",
+      "bytes": 1466456,
+      "sha256": "95994a3fd219a83be404924e81dcb08875eba7fb3fdf9213a19b502be10bbd99",
+      "durationSec": 120,
+      "loop": true,
+      "license": "CC0-1.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sound_inside_Tocumen_airport_in_Panama.flac",
+      "title": {
+        "tr": "Havalimanı",
+        "en": "Airport"
+      }
+    },
+    {
+      "id": "mexico_sunday",
+      "cat": "city",
+      "pro": true,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/mexico_sunday.m4a",
+      "bytes": 1467200,
+      "sha256": "580e078e91a1a4758628c3309982f675c368ce6cd0200ac2609fcc0f75055e16",
+      "durationSec": 120,
+      "loop": true,
+      "license": "CC0-1.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sunday_in_the_center_of_Mexico_City_(close_to_Alameda_Park),_Schoeps_MS_Setup.flac",
+      "title": {
+        "tr": "Pazar meydanı",
+        "en": "Sunday square"
+      }
+    },
+    {
+      "id": "berlin_spring",
+      "cat": "city",
+      "pro": true,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/berlin_spring.m4a",
+      "bytes": 1264606,
+      "sha256": "047a709a2b2c9b7441acd981657de7ad802aec5ca95ccb5972d3db2fcd1201bb",
+      "durationSec": 103,
+      "loop": true,
+      "license": "CC0-1.0",
+      "source": "https://commons.wikimedia.org/wiki/File:184809_qubodup_first-day-of-urban-spring-in-berlin-2013-04-14.flac",
+      "title": {
+        "tr": "Kentte bahar",
+        "en": "Spring in the city"
+      }
+    },
+    {
+      "id": "soft_piano",
+      "cat": "melodies",
+      "pro": false,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/soft_piano.m4a",
+      "bytes": 1468983,
+      "sha256": "1cad19bad3ddc555a90d85bf03563d2a3d085edbfe56a93cad43f767cad23352",
+      "durationSec": 120,
+      "loop": true,
+      "license": "AuraSleep original (owned)",
+      "source": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/blob/main/tools/gen.py",
+      "title": {
+        "tr": "Yumuşak piyano",
+        "en": "Soft piano"
+      }
+    },
+    {
+      "id": "harp",
+      "cat": "melodies",
+      "pro": false,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/harp.m4a",
+      "bytes": 1468978,
+      "sha256": "30794cf79e9ed0009d163d4da84d3365832952525ca2a4a2b740fcdfe9381cfa",
+      "durationSec": 120,
+      "loop": true,
+      "license": "AuraSleep original (owned)",
+      "source": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/blob/main/tools/gen.py",
+      "title": {
+        "tr": "Arp",
+        "en": "Harp"
+      }
+    },
+    {
+      "id": "drone_pad",
+      "cat": "melodies",
+      "pro": true,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/drone_pad.m4a",
+      "bytes": 1500887,
+      "sha256": "7e70faf195c9b99e2e2442ba325cb5e3200255cef08dc5a8b0fb566cff24ee56",
+      "durationSec": 120,
+      "loop": true,
+      "license": "AuraSleep original (owned)",
+      "source": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/blob/main/tools/gen.py",
+      "title": {
+        "tr": "Derin ambiyans",
+        "en": "Deep ambience"
+      }
+    },
+    {
+      "id": "singing_bowls",
+      "cat": "melodies",
+      "pro": true,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/singing_bowls.m4a",
+      "bytes": 1473268,
+      "sha256": "b6fb6a9d38e1bf086fa9538e237ecc5fd32408bd5f299fb32e84fadfa8b4a313",
+      "durationSec": 120,
+      "loop": true,
+      "license": "AuraSleep original (owned)",
+      "source": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/blob/main/tools/gen.py",
+      "title": {
+        "tr": "Tibet çanağı",
+        "en": "Singing bowls"
+      }
+    },
+    {
+      "id": "dream_bells",
+      "cat": "melodies",
+      "pro": true,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/dream_bells.m4a",
+      "bytes": 1471614,
+      "sha256": "d7fe29b2785cc22db9e8a0f939fb9b8b676f4e34c0c383a04d7bc8d8167f3418",
+      "durationSec": 120,
+      "loop": true,
+      "license": "AuraSleep original (owned)",
+      "source": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/blob/main/tools/gen.py",
+      "title": {
+        "tr": "Rüya çanları",
+        "en": "Dream bells"
+      }
+    },
+    {
+      "id": "white",
+      "cat": "noises",
+      "pro": false,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/white.m4a",
+      "bytes": 1465737,
+      "sha256": "ec79ec979b1cef8c32b2ace749f9e7cea417463b098d4fb014372acd8b73d073",
+      "durationSec": 120,
+      "loop": true,
+      "license": "AuraSleep original (owned)",
+      "source": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/blob/main/tools/gen.py",
+      "title": {
+        "tr": "Beyaz gürültü",
+        "en": "White noise"
+      }
+    },
+    {
+      "id": "grey",
+      "cat": "noises",
+      "pro": false,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/grey.m4a",
+      "bytes": 1465905,
+      "sha256": "c432fa3c88e667a7dc3813f2f844583d873886e733d1588c21b251ec6876e90b",
+      "durationSec": 120,
+      "loop": true,
+      "license": "AuraSleep original (owned)",
+      "source": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/blob/main/tools/gen.py",
+      "title": {
+        "tr": "Gri gürültü",
+        "en": "Grey noise"
+      }
+    },
+    {
+      "id": "green",
+      "cat": "noises",
+      "pro": true,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/green.m4a",
+      "bytes": 1467475,
+      "sha256": "d058ac7684701404520585d2bb6e58e65efc3b0a4b4a6bfc7279a08ba7ffdd44",
+      "durationSec": 120,
+      "loop": true,
+      "license": "AuraSleep original (owned)",
+      "source": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/blob/main/tools/gen.py",
+      "title": {
+        "tr": "Yeşil gürültü",
+        "en": "Green noise"
+      }
+    },
+    {
+      "id": "deep_brown",
+      "cat": "noises",
+      "pro": true,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/deep_brown.m4a",
+      "bytes": 1519572,
+      "sha256": "8301d5bcf9949877c8fdaa0a263b1c3d67fb29f0397c2d61d2f09aac9b7b850d",
+      "durationSec": 120,
+      "loop": true,
+      "license": "AuraSleep original (owned)",
+      "source": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/blob/main/tools/gen.py",
+      "title": {
+        "tr": "Derin kahverengi gürültü",
+        "en": "Deep brown noise"
+      }
+    },
+    {
+      "id": "wind_howl",
+      "cat": "wind",
+      "pro": false,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/wind_howl.m4a",
+      "bytes": 1464988,
+      "sha256": "1f3c2eabf064696fb6e3def9ae66a83e2c87e1e99f65daf715cf3350d4997309",
+      "durationSec": 120,
+      "loop": true,
+      "license": "CC0-1.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Howling_wind.ogg",
+      "title": {
+        "tr": "Uğuldayan rüzgâr",
+        "en": "Howling wind"
+      }
+    },
+    {
+      "id": "wind_deep",
+      "cat": "wind",
+      "pro": false,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/wind_deep.m4a",
+      "bytes": 1517848,
+      "sha256": "9394a7a1097cb903e0818fb6ba67c9d2b5946f038ecee17dce160bf44f15d5f0",
+      "durationSec": 120,
+      "loop": true,
+      "license": "AuraSleep original (owned)",
+      "source": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/blob/main/tools/gen.py",
+      "title": {
+        "tr": "Derin rüzgâr",
+        "en": "Deep wind"
+      }
+    },
+    {
+      "id": "wind_trees",
+      "cat": "wind",
+      "pro": true,
+      "url": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/releases/download/sounds-2026.11.1/wind_trees.m4a",
+      "bytes": 1470186,
+      "sha256": "e27aefb022dae948ce106b131c8c91d4f6b1dcddbb3881175dcdf203417b4552",
+      "durationSec": 120,
+      "loop": true,
+      "license": "AuraSleep original (owned)",
+      "source": "https://github.com/serqanaktas-ctrl/aurasleep-sounds/blob/main/tools/gen.py",
+      "title": {
+        "tr": "Ağaçlarda rüzgâr",
+        "en": "Wind in the trees"
+      }
+    }
+  ]
+}
